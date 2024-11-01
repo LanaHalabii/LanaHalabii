@@ -1,4 +1,4 @@
- ### 🌟 Welcome to Lana's Code Wonderland! 🦄🎡  
+ ### 🌟 Welcome to My Code Wonderland! 🦄🎡  
 
  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
