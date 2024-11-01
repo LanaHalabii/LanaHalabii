@@ -2,10 +2,10 @@
 
  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-   🔭 I’m a Computer Engineering graduate 
-   ☕ Caffeine-fueled
-   🐍 I’m currently learning Python
-   ⚡ Fun fact: Code is like humor. When you have to explain it, it’s bad.
+   - 🔭 I’m a Computer Engineering graduate 
+   - ☕ Caffeine-fueled
+   - 🐍 I’m currently learning Python
+   - ⚡ Fun fact: Code is like humor. When you have to explain it, it’s bad.
 
 
 ### 🚀 Skills ###
