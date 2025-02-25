@@ -4,7 +4,7 @@
 
    - 🔭 I’m a Computer Engineering graduate 
    - ☕ Caffeine-fueled
-   - 🐍 I’m currently learning Python
+   - 🐍 I’m currently learning Full Stack
    - ⚡ Fun fact: Code is like humor. When you have to explain it, it’s bad.
 
 
